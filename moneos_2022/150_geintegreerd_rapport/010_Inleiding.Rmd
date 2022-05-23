@@ -60,9 +60,14 @@ pad_tabellen <- maak_pad(hoofdstuk, "tabellen")
 
 hopsakee!
 
+grmpf!
+
 Het INBO monitoringsprogramma wordt uitgevoerd met de financiële steun van de Vlaamse Waterweg nv, Maritime Toegang (MT) en het Agentschap voor Natuur en Bos (ANB). Waarvoor dank. De monitoring zou niet mogelijk geweest zijn zonder de bemanning van de schepen SCALDIS I, Scheldewacht II, Veremans, Henry de Vos en de Parel. Dank aan Erwin De Backer (Waterbouwkundig laboratorium) voor de uitstekende planning van de bootcampagnes. Dank aan iedereen die in het bijzondere corona-jaar meehielp om de monitoring praktisch uitvoerbaar te maken en blijvend te sleutelen aan de voordurend veranderende afspraken door COVIDregels. Dank! Door jullie inzet is praktisch volledig het mominitoringsprogramma kunnen uitgevoerd worden.
 
 De zoogdierengegevens werden met toestemming ontleend uit de databank van Waarnemingen.be (Natuurpunt VZW).
+
+beuh beuh
+
 
 De superdeluxe dataverzameling en laboratoriumwerk wat betreft watervogels, hyperbenthos, macrozoöbenthos en de hoogteraaien werden uitgevoerd door Olja Bezdenjesnji, Dimitri Buerms, Joram De Beukelaer, Ruben Elsen, Nico De Regge, Kenny Hessel, Vincent Smeekens, Jan Soors en Frederic Van Lierop. Topteam Estuaria!
 De vismonitoring werd uitgevoerd door team MHAF-INBO (Monitoring Herstel Aquatische Fauna).De onderzoekers en onderzoeksmedewerkers leverden opnieuw prachtig werk: Jan Breine, Adinda De Bruyn, Linde Galle, Isabel Lambeens, Yves Maes, Thomas Terrie en Gerlinde Van Thuyne met de ondersteuning van technici en arbeiders hieronder vermeld.
