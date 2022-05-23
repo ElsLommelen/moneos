@@ -59,8 +59,11 @@ pad_tabellen <- maak_pad(hoofdstuk, "tabellen")
 # Dankwoord/Voorwoord {-}  
 
 hopsakee!
+en daarmee basta!
 
 Het INBO monitoringsprogramma wordt uitgevoerd met de financiële steun van de Vlaamse Waterweg nv, Maritime Toegang (MT) en het Agentschap voor Natuur en Bos (ANB). Waarvoor dank. De monitoring zou niet mogelijk geweest zijn zonder de bemanning van de schepen SCALDIS I, Scheldewacht II, Veremans, Henry de Vos en de Parel. Dank aan Erwin De Backer (Waterbouwkundig laboratorium) voor de uitstekende planning van de bootcampagnes. Dank aan iedereen die in het bijzondere corona-jaar meehielp om de monitoring praktisch uitvoerbaar te maken en blijvend te sleutelen aan de voordurend veranderende afspraken door COVIDregels. Dank! Door jullie inzet is praktisch volledig het mominitoringsprogramma kunnen uitgevoerd worden.
+
+ha ja hé.
 
 De zoogdierengegevens werden met toestemming ontleend uit de databank van Waarnemingen.be (Natuurpunt VZW).
 
