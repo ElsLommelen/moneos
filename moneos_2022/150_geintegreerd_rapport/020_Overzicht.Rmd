@@ -62,6 +62,8 @@ pad_tabellen <- maak_pad(hoofdstuk, "tabellen")
 
 __Gunther Van Ryckegem__
 
+awel awel, wat is dat hier allemaal?
+
 ## Overzicht
 In dit hoofdstuk wordt op vraag van de projectgroep Monitoring en Databeheer een overzicht gegeven van de natuurontwikkelingsprojecten die reeds uitgevoerd zijn in de Zeeschelde, met weergave van de voornaamste karakteristieken van het gebied. Onderstaande informatie is beschikbaar gemaakt via het online portaal http://www.abpmer.net/omreg/. Deze website omvat een databank met uitgevoerde estuariene natuurontwikkelingsprojecten.
 
